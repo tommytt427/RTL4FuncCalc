@@ -9,4 +9,5 @@ This project involves designing and implementing a Four-Function Calculator on t
 The lab showcases Register Transfer Level (RTL) design, and although the design appears simple, it provides insights into creating a datapath and controller for sequential digital systems.
 
 
-To gain access to the project, please contact me ttrann@umich.edu
+To gain access to the project, please contact me ttrann@umich.edu. This is to avoid violating the University of Michigan's Honor Code.
+
